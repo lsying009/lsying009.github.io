@@ -21,8 +21,9 @@ repository               : "lsying009/lsying009.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Siying Liu (刘思滢)"
+  avatar           : "profile.jpg"
+  name             : "Siying Liu 
+                      (刘思滢)"
   pronouns         : # example: "she/her"  
   bio              : "Event-based vision, Spiking neural networks, Model-based Learning, Image Registration"
   location         : "UK"

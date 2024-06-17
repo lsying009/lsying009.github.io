@@ -73,17 +73,18 @@ for row, item in publications.iterrows():
     md = "---\ntitle: \""   + item.title + '"\n'
     
     md += """collection: publications"""
-    
-    md += """\npermalink: /publication/""" + html_filename
+
+    if len(str(item.permalink)) > 5:
+        md += """\npermalink: /publication/""" + html_filename
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
 
-    md += "\nauthor: '" + str(item.author) + "'"
+    # md += "\nauthor: '" + str(item.author) + "'"
     
-    md += "\ndate: " + str(item.pub_date) 
+    # md += "\ndate: " + str(item.pub_date) 
     
-    md += "\nvenue: '" + html_escape(item.venue) + "'"
+    # md += "\nvenue: '" + html_escape(item.venue) + "'"
     
     if len(str(item.paper_url)) > 5:
         md += "\npaperurl: '" + item.paper_url + "'"
@@ -103,7 +104,7 @@ for row, item in publications.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
         
-    # md += "\nRecommended citation: " + item.citation
+    md += item.citation
     
     md_filename = os.path.basename(md_filename)
        

@@ -21,6 +21,7 @@ We have posted another paper about events-to-video reconstruction: [Enhanced Eve
 
 
 # Selected Awards
+- July 2024, Chinese Government Award for Outstanding Self-financed Students Abroad
 - Oct 2020, Department Scholarship for 3.5-year of PhD study, Department of Electrical and Electronic Engineering, Imperial College London.
 - July 2020, Excellent Graduate Award, Beijing Municipal Commission of Education.
 - Dec 2019, National Scholarship, Chinese Ministry of Education.

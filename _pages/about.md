@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently a Postdoctoral Researcher at the Center for Brain Inspired Computing Research (CBICR) at Tsinghua University (Beijing, China), working under Dr. Lei Deng. I completed my PhD (2024) at the Communications and Signal Processing (CSP) group at Imperial College London (London, UK), where I was supervised by Prof. Pier Luigi Dragotti. I received a M.Sc. (2020) and B.Sc (2017) degree in Instrumentation Science and Technology from the Beihang University (Beijing, China). My research interests include event-based vision, model-based deep learning, spiking neural networks and image processing.
+I am currently a Postdoctoral Researcher at the Center for Brain Inspired Computing Research (CBICR) at Tsinghua University (Beijing, China), working with Dr. Lei Deng. I completed my PhD (2024) at the Communications and Signal Processing (CSP) group at Imperial College London (London, UK), where I was supervised by Prof. Pier Luigi Dragotti. I received a M.Sc. (2020) and B.Sc (2017) degree in Instrumentation Science and Technology from the Beihang University (Beijing, China). My research interests include event-based vision, model-based deep learning, spiking neural networks and image processing.
 
 # News
 

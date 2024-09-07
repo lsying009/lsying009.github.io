@@ -25,11 +25,11 @@ author:
   name             : Siying Liu 
                       (刘思滢)
   pronouns         : # example: "she/her"  
-  bio              : "Event-based vision, Spiking neural networks, Model-based Learning, Image Registration"
-  location         : "UK"
-  employer         : "Imperial College London"
+  bio              : "Event-based vision, Spiking neural networks, Model-based Learning, Image Processing"
+  location         : "China"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "siying.liu20@imperial.ac.uk" 
+  email            : "siying-liu@tsinghua.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

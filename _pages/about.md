@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Communications and Signal Processing (CSP) group at Imperial College London, under the supervision of Prof. Pier Luigi Dragotti. I received a M.Sc. (2020) and B.Sc (2017) degree in Instrumentation Science and Technology from the Beihang University (Beijing, China). My research interests include event-based vision, model-based deep learning, spiking neural networks and image processing.
+
+I am currently a Postdoctoral Researcher at the Center for Brain Inspired Computing Research (CBICR) at Tsinghua University (Beijing, China), working under Dr. Lei Deng. I completed my PhD (2024) at the Communications and Signal Processing (CSP) group at Imperial College London (London, UK), where I was supervised by Prof. Pier Luigi Dragotti. I received a M.Sc. (2020) and B.Sc (2017) degree in Instrumentation Science and Technology from the Beihang University (Beijing, China). My research interests include event-based vision, model-based deep learning, spiking neural networks and image processing.
 
 # News
 
@@ -21,7 +22,8 @@ We have posted another paper about events-to-video reconstruction: [Enhanced Eve
 
 
 # Selected Awards
-- July 2024, Chinese Government Award for Outstanding Self-financed Students Abroad
+- July 2024, Selected for Shuimu Tsinghua Scholar Program. 
+- July 2024, Chinese Government Award for Outstanding Self-financed Students Abroad.
 - Oct 2020, Department Scholarship for 3.5-year of PhD study, Department of Electrical and Electronic Engineering, Imperial College London.
 - July 2020, Excellent Graduate Award, Beijing Municipal Commission of Education.
 - Dec 2019, National Scholarship, Chinese Ministry of Education.

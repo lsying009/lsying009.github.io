@@ -12,9 +12,12 @@ I am currently a Postdoctoral Researcher at the Center for Brain Inspired Comput
 
 # News
 
-We have posted another paper about events-to-video reconstruction: [Enhanced Event-Based Video Reconstruction with Motion Compensation](https://arxiv.org/abs/2403.11961). Related code is released in [CISTA-Flow](https://github.com/lsying009/CISTA-Flow)! 
+Our Paper on [ISTASTrack: Bridging ANN and SNN via ISTA Adapter for RGB-Event Tracking](https://arxiv.org/abs/2509.09977) has been accepted by **IEEE TIP**! Related code is released in [ISTASTrack](https://github.com/lsying009/ISTASTrack).
+
+Our Paper [LASTracker: A lightweight RGB-E tracking framework with ANN-SNN adaptive switching](https://www.sciencedirect.com/science/article/pii/S0031320326005881) on RGB-Event tracking has been accepted by **Pattern Recognition**!
 
 # Projects 
+- The code for [Enhanced Event-Based Video Reconstruction with Motion Compensation](https://arxiv.org/abs/2403.11961) is released in [CISTA-Flow](https://github.com/lsying009/CISTA-Flow)
 - The code for V2E2V related to our [TPAMI 2023](https://doi.org/10.1109/TPAMI.2023.3278940) and [ICASSP 2022](https://doi.org/10.1109/ICASSP43922.2022.9746331) papers is released in [V2E2V](https://github.com/lsying009/V2E2V)!
 - The code for [FS coding of SNNs](https://doi.org/10.3389/fnins.2023.1266003) is released in [FS_coding](https://github.com/lsying009/FS_coding)!
 - The code for video-to-events generation to create training data for events-to-video reconstruction is released in [V2E_generation](https://github.com/lsying009/V2E_generation)!
